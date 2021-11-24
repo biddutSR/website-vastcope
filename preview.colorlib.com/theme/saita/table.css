@@ -1,0 +1,33 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+ th {
+    border: 1px solid black;
+    padding: 16px;
+    text-align: center;
+    font-weight: bold ;
+    font-size: 30px;
+    color: rgb(15, 15, 15);
+  }
+  td{
+      height: 100 px;
+      border: 1px solid black;
+      color: rgb(20, 20, 20);
+        font-size: 20px;
+  }
+  table{
+    border: 2px darkblue black;
+    text-align: center;
+  }
+  .button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
